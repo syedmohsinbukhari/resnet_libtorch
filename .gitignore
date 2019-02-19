@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+# TorchScript Models
+*.pt
+
+# DL models
+*.weight
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Miscellaneous
+*.vscode
+*.directory
+*.swp
+
+# Builds
+build/
